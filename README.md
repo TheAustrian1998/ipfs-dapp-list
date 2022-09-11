@@ -8,3 +8,4 @@
 - **Uniswap v2** (Release v2.2.8): [Source](https://github.com/Uniswap/interface/releases/tag/v2.2.8)
 - **AAVE** (*pre-OFAC* - release-2022-08-11_21-22): [Source](https://github.com/aave/interface/releases/tag/release-2022-08-11_21-22)
 - **AAVE** (release-2022-09-10_15-15): [Source](https://github.com/aave/interface/releases/tag/release-2022-09-10_15-15)
+- **Liquity** (Community build - `docker digest b0392bd36ef1`): [Source](https://gist.github.com/TheAustrian1998/8520069dea91036df1d035dffcb4e7bf)
